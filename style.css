@@ -1,0 +1,41 @@
+body { font-family: 'Oswald', sans-serif;
+       background-color: #EAFFFF
+		         }
+img{
+	width: 200px;
+	height: 200px;
+	margin: 5px 50px;
+}
+ul{
+	list-style: none;
+	position: fixed;
+	right: 0;
+}
+li{
+	background-color: purple;
+	float: left;
+	color: white;
+	margin: 5px;
+	padding: 5px;
+}
+
+.logo { display: block;
+	margin: auto; }
+
+h1 { text-align: center;
+	 font-size: 40px;
+	 color:purple;
+		         }
+.parrafo{
+	text-align: right;
+	display: inline-block;
+	color: #2E406D;
+	width: 20%;
+	margin:40px;
+}
+.footer{
+	text-align: right;
+	padding: 10px;
+	margin-bottom: 40px;
+}
+
